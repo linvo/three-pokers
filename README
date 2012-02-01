@@ -1,4 +1,15 @@
-թ�𻨣�PHP �����棩
+诈金花（PHP 联机版）
 
-linvo@foxmail.com
-2011/12/21
+========
+文件说明
+========
+c.php 常用字，用于随机起名
+demo.php 单机版
+index.php 联机版
+mysql.class.php mysql操作封装
+redis.class.php redis操作封装
+
+========
+联系方式
+========
+Email：linvo@foxmail.com
